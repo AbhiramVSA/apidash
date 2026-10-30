@@ -1,4 +1,22 @@
-# API Dash ⚡️
+<p align="center">
+  <img src="assets/readme-mark.png" alt="Repository mark for the apidash fork" width="200">
+</p>
+
+<h1 align="center">API Dash ⚡️</h1>
+
+> **Fork status:** Fork of [foss42/apidash](https://github.com/foss42/apidash). The existing project guide follows.
+
+## Overview
+
+API Dash is a Flutter API client for desktop and mobile. It supports request creation, response inspection, and integration-code generation.
+
+## Navigation
+
+[Download](#download) · [Features](#list-of-features) · [User and developer docs](#documentation-user-guide--developer-guide) · [Roadmap](#roadmap) · [Contribute](#contribute-to-api-dash)
+
+## Existing upstream guide
+
+The guide, project branding, and legal notices from the fork base remain below.
 
 <a href="https://discord.com/invite/bBeSdtJ6Ue" target="_blank"><img src="https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server Invite"></a><br>
 <img src="https://trendshift.io/api/badge/repositories/9734" alt="foss42%2Fapidash | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/> &nbsp;&nbsp;&nbsp; <a href="https://summerofcode.withgoogle.com/programs/2025/organizations/api-dash" target="_blank"><img src="https://github.com/foss42/apidash/assets/615622/493ce57f-06c3-4789-b7ae-9fa63bca8183" alt="GSoC" width="400"></a>
