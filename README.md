@@ -1,4 +1,8 @@
-# API Dash ⚡️
+<p align="center">
+  <img src="assets/readme-mark.png" alt="Repository mark for the apidash fork" width="200">
+</p>
+
+<h1 align="center">API Dash ⚡️</h1>
 
 > **Fork status:** Fork of [foss42/apidash](https://github.com/foss42/apidash). The existing project guide follows.
 
